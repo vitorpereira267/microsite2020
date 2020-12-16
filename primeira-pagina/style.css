@@ -114,14 +114,14 @@ button {
 	margin-left: 10px;
 }
 
-.light-blueish {
+.parteclara {
 	background-color: hsl(240, 75%, 98%);
 	margin-top: 100px;
 	position: relative;
 	padding: 50px 0;
 }
 
-.light-blueish::before {
+.parteclara::before {
 	content: '';
 	background-image: url('./images/bg-curve-desktop.svg');
 	background-size: cover;
@@ -165,23 +165,23 @@ button {
 	margin: 0;
 }
 
-.blueish {
+.parteescura {
 	background-color: hsl(238, 22%, 44%);
 	color: #fff;
 	padding: 50px 0;
 }
 
-.blueish form {
+.parteescura form {
 	flex-direction: column;
 }
 
-.blueish form input {
+.parteescura form input {
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	border: none;
 	flex: 1;
 }
 
-.blueish form button {
+.parteescura form button {
 	margin: 20px 0 0;
 	width: 50%;
 }
@@ -237,7 +237,7 @@ footer p {
 		margin: 10px 20px;
 	}
 
-	.light-blueish::before {
+	.parteclara::before {
 		background-image: url('./images/bg-curve-mobile.svg');
 		height: 80px;
 	}
@@ -262,11 +262,11 @@ footer p {
 		width: 100%;
 	}
 
-	.blueish form input {
+	.parteescura form input {
 		flex: 1;
 	}
 
-	.blueish form button {
+	.parteescura form button {
 		margin: 20px 0;
 		width: 100%;
 	}
