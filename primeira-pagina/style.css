@@ -60,7 +60,6 @@ h2 {
 	margin-left: 20px;
 }
 
-/* Nav styling */
 nav {
 	display: flex;
 	align-items: center;
@@ -84,7 +83,6 @@ nav ul a {
 	text-decoration: none;
 }
 
-/* Form Section */
 form {
 	display: flex;
 }
@@ -135,7 +133,6 @@ button {
 	width: 100%;
 }
 
-/* Testimonial */
 .testimonial-box {
 	background-color: #fff;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -168,7 +165,6 @@ button {
 	margin: 0;
 }
 
-/* Blueish */
 .blueish {
 	background-color: hsl(238, 22%, 44%);
 	color: #fff;
@@ -190,7 +186,6 @@ button {
 	width: 50%;
 }
 
-/* Footer styling */
 footer {
 	background-color: hsl(243, 87%, 12%);
 	color: #fff;
