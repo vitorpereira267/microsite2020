@@ -148,19 +148,19 @@ button {
 	line-height: 1.7;
 }
 
-.user-info {
+.utilizador{
 	display: flex;
 	margin-top: 20px;
 }
 
-.user-info img {
+.utilizador img {
 	border-radius: 50%;
 	height: 50px;
 	margin-right: 10px;
 	width: 50px;
 }
 
-.user-info h4 {
+.utilizador h4 {
 	font-weight: 700;
 	margin: 0;
 }
