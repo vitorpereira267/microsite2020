@@ -133,7 +133,7 @@ button {
 	width: 100%;
 }
 
-.testimonial-box {
+.caixa_utilizador {
 	background-color: #fff;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	border-radius: 5px;
@@ -142,7 +142,7 @@ button {
 	width: 80%;
 }
 
-.testimonial-box p {
+.caixa_utilizador p {
 	font-size: 14px;
 	letter-spacing: 1px;
 	line-height: 1.7;
@@ -275,7 +275,7 @@ footer p {
 		margin-top: 30px;
 	}
 
-	.user-info {
+	.utilizador {
 		justify-content: center;
 	}
 
