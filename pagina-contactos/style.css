@@ -1,9 +1,10 @@
+@import url('https://fonts.google.com/specimen/Rubik');
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
-    
+
 #texto{
      position: absolute;
-      
 
     }
 .background{
@@ -12,7 +13,7 @@
     
 }
 
-.titleformat{
+.titulo{
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -76,14 +77,6 @@ p{
     background: url(images/mapa.png);
     background-repeat: no-repeat;
     z-index: 10;
-}
-
-.footer-nav{
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;  
 }
 
 @media only screen and (max-width:620px){
